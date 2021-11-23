@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielnasil
-- 👀 I’m interested a Student of Data Science at UNIVESP
+- 👀 I’m a Student of Data Science at UNIVESP
 - 🌱 I’m currently learning Bioinformatics and Algorithms
 
 
